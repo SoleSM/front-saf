@@ -77,10 +77,11 @@ export default function Home() {
           </a>
         </div>
 
-        <div className="formulario-contacto" style={{"backgroundColor":"blue"}}>
-         <label className="titulo-form-contacto">Formulario de contacto</label>
+          
+        <div className="formulario-contacto" >
+         <label className="titulo-form-contacto">Contáctate con nosotros</label>
          <input className="input-form-contacto" placeholder="Ingrese su email"/>
-         <button className="boton-catalogo">Enviar</button>
+         <button className="boton-contacto">Enviar</button>
         </div>
       </div>
 
